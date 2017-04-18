@@ -1,0 +1,19 @@
+div{
+  background-color: #b4afb0;
+  width: 50px;
+  height: 50px;
+  border: 2px solid black;
+  margin:10px;
+}
+
+.cajota{
+  /*position: relative;*/
+  display: block;
+  width: 230px;
+  height: 80px;
+}
+
+.cajita{
+  /*position: absolute;*/
+  display: inline-block;
+}
